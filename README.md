@@ -27,6 +27,8 @@ This project helped me practice:
 
 This project was heavily inspired by the Python quiz game tutorial from Tech With Tim.
 
+The tutorial is part of a project tutorial series which can be accessed here: https://youtu.be/NpmFbWO6HPU?si=eVrkotzmwbOGg3A4 
+
 The code was modified and expanded as part of my Python re-learning journey. 
 
 ## Future Improvements
